@@ -14,9 +14,9 @@ The example files "chopin-prelude28n20.mid" and "chopin-prelude28n20.krn" can be
 1. `Make` under the midi2score folder.
 2. To print the MIDI notes list, execute
   `bin/midi2score tests/chopin-prelude28n20.mid tests/chopin-prelude28n20.krn -m`
-  To print the Humdrum notes list, execute
+3. To print the Humdrum notes list, execute
   `bin/midi2score tests/chopin-prelude28n20.mid tests/chopin-prelude28n20.krn -h`
-  To print the alignment result, execute
+4. To print the alignment result, execute
   `bin/midi2score tests/chopin-prelude28n20.mid tests/chopin-prelude28n20.krn`
 
 
