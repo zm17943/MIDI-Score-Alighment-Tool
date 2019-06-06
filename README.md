@@ -18,10 +18,12 @@ The example files "chopin-prelude28n20.mid" and "chopin-prelude28n20.krn" can be
   `bin/midi2score tests/chopin-prelude28n20.mid tests/chopin-prelude28n20.krn -h`
 4. To print the alignment result, execute <br />
   `bin/midi2score tests/chopin-prelude28n20.mid tests/chopin-prelude28n20.krn`
-
 <br />
 The algorithm is still being improved. The idea is to do the one-by-one MIDI to score notes link with reference to the music context, which is simple but effective proved on four song examples. Details can be seen in "writeup.pdf"
 
+<br />
+<br />
+<br />
 <br />
 <br />
 Contact: Miao Zhang (miaoz18@stanford.edu)
