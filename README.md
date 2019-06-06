@@ -24,7 +24,5 @@ The algorithm is still being improved. The idea is to do the one-by-one MIDI to 
 <br />
 <br />
 <br />
-<br />
-<br />
 Contact: Miao Zhang (miaoz18@stanford.edu)
 
