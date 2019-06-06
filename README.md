@@ -10,7 +10,8 @@ The main alighment tool "midi2score.cpp" is under "tools" folder, and thanks Cra
 The folder "tests" includes 4 song examples.
 
 ### Do the alighment
-1. Go the 
+1. Be under midi2score folder.
+2. 
 
 `conda install allennlp -c pytorch -c allennlp -c conda-forge`
 
