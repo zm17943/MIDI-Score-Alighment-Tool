@@ -22,5 +22,5 @@ The example files "chopin-prelude28n20.mid" and "chopin-prelude28n20.krn" can be
 
 
 
-
+Contact: Miao Zhang (miaoz18@stanford.edu)
 
