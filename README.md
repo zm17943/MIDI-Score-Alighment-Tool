@@ -1,4 +1,4 @@
-# MIDI-Score-Alighment-Tool
+# MIDI-Score-Alighment-Tool(C++)
 
 This is my final project for Music 254 at Stanford, taught by Eleanor Selfridge-Field and Craig Sapp.
 
@@ -10,10 +10,15 @@ The main alighment tool "midi2score.cpp" is under "tools" folder, and thanks Cra
 The folder "tests" includes 4 song examples.
 
 ### Do the alighment
-1. Be under midi2score folder.
-2. 
+The example files "chopin-prelude28n20.mid" and "chopin-prelude28n20.krn" can be used to test the program:
+1. `Make` under the midi2score folder.
+2. To print the MIDI notes list, execute
+  `bin/midi2score tests/chopin-prelude28n20.mid tests/chopin-prelude28n20.krn -m`
+  To print the Humdrum notes list, execute
+  `bin/midi2score tests/chopin-prelude28n20.mid tests/chopin-prelude28n20.krn -h`
+  To print the alignment result, execute
+  `bin/midi2score tests/chopin-prelude28n20.mid tests/chopin-prelude28n20.krn`
 
-`conda install allennlp -c pytorch -c allennlp -c conda-forge`
 
 
 
