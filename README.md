@@ -7,13 +7,13 @@ The alignment tool "midi2score.cpp" is under "tools" folder, and thanks Craig fo
 ### Directories
 | Name | Description |        <br />
 |============|=============|        <br />
-| tools | Location for the source code for the program. |
-| tests | Test MIDI and Humdrum files to link. |
-| bin | Output directory for compiled program. |
-| src | Source code for support libraries: midifile, and humlib |
-| include | Include files for support libraries. |
-| lib | Directory for compiled support libraries. |
-| obj | Temporary directory for storing support library object files. |
+| tools | Location for the source code for the program. |      <br />
+| tests | Test MIDI and Humdrum files to link. |           <br />
+| bin | Output directory for compiled program. |              <br />
+| src | Source code for support libraries: midifile, and humlib |         <br />
+| include | Include files for support libraries. |          <br />
+| lib | Directory for compiled support libraries. |         <br />
+| obj | Temporary directory for storing support library object files. |      <br />
 
 ### Preraration
 1. Humdrum file for the score (See http://doc.verovio.humdrum.org for reference)
