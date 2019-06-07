@@ -5,8 +5,8 @@ This is my final project for Music 254 at Stanford, taught by Eleanor Selfridge-
 The alignment tool "midi2score.cpp" is under "tools" folder, and thanks Craig for providing other codes for loading MIDI and humdrum files. Follow the steps below to align your MIDI and score:
 
 ### Directories
-| Name | Description | 
-|============|=============|
+| Name | Description |        <br />
+|============|=============|        <br />
 | tools | Location for the source code for the program. |
 | tests | Test MIDI and Humdrum files to link. |
 | bin | Output directory for compiled program. |
